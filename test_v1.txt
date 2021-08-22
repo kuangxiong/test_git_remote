@@ -1,2 +1,7 @@
 hello word test_v2.txt
+<<<<<<< HEAD
 test_2_1
+=======
+test3 
+test4
+>>>>>>> 48b1c03e2e752759e6b389d66b1c3a98fb0475df
